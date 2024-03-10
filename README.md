@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jishal
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying in highschool
 - 💞️ I’m looking to collaborate with a backend programmer
 
 <!---
